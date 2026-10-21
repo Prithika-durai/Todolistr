@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(8, 37, 8);
+}
+input{
+    width: 250px;
+    height:30px;
+}
+button{
+    width: 90px;
+    height: 30px;
+    border-style: none;
+    background-color: rgb(200, 241, 116);}
+    
+button:hover{
+background-color: rgb(31, 170, 31);
+}
+ul{
+    list-style: none;
+    color:rgb(4, 53, 4);
+    text-align: left;
+    margin-left: 550px;
+}
+.but{
+    
+    height: 30px;
+    margin-top: 5px;
+}
